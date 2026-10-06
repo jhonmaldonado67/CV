@@ -9,3 +9,5 @@ Este repositorio contiene mis proyectos.
 - **[Inventario Inteligente con IA](./inventario-inteligente-ia)**: Sistema de gestión de inventario impulsado por inteligencia artificial local.
 
 - **[Detección de Objetos (Visión por Computadora)](./detector-objetos-yolo)**: Sistema de detección en tiempo real usando YOLOv5 y OpenCV.
+
+- **[Juego de Zombies 3D (Unreal Engine)](./juego-zombies-unreal)**: Videojuego de supervivencia 3D desarrollado con Unreal Engine. Incluye demostración en video.
